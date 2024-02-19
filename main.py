@@ -1,4 +1,4 @@
 print('votre cours est superbe monsieur')
 #switch to bug fix
 aaaaaaaaa
-version master
+version master + bug fix
